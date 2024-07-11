@@ -45,7 +45,7 @@ nav ul li {
 nav ul li a {
     color: #bf52d2;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 15px;
     transition: all 0.3s ease;
     font-family: 'Roboto', sans-serif;
     text-align: left;
@@ -212,6 +212,9 @@ nav ul li a:hover {
     font-size: 24px;
     margin-bottom: 10px;
     text-align: center;
+  }
+  .text-box h5 {
+    text-align: justify;
   }
   .text-box {
     font-family: Arial, sans-serif;
